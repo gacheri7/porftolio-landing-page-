@@ -3,6 +3,11 @@
 #### By **{List of contributors}**
 ## Description
 {Web portfolio about me , a list of my projects , background and my current interests }
+## Project Setup
+Create a forked copy of this project
+Clone your own version of the repository 
+Implements changes while commiting regularly 
+Push commits: git push origin 
 ## Known Bugs
 {There are no known bugs}
 ## Technologies Used

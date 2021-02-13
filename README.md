@@ -6,8 +6,7 @@
 ## Known Bugs
 {There are no known bugs}
 ## Technologies Used
-{HTML
-CSS}
+{Developed using HTML and CSS}
 ## Support and contact details
 { if you run into any issues or have questions, ideas , concerns or want to make a contribution to the code ,be encourage  to contact me at martharollier00@gmail.}
 ### License

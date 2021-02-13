@@ -2,7 +2,6 @@
   font-family: sans-serif;
   font-size: 30px;
   float: right;
-  background-color: white ;
 }
 .header{
   background-color: rgb(252, 252, 209);
@@ -50,4 +49,11 @@ ul{
   text-align: center;
   color: white;
   font-size: larger;
+}
+a{
+  font-size: x-large;
+  color: white;
+}
+.interests{
+  color: rgba(233, 185, 27, 0.295);
 }

@@ -1,6 +1,6 @@
 # {Portfolio Landing Page}
 #### {Web portfolio showcasing my work}, {2021}
-#### By **{List of contributors}**
+#### By **{Gacheri}**
 ## Description
 {Web portfolio about me , a list of my projects , background and my current interests }
 ## Live Demo

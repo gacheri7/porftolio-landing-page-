@@ -3,7 +3,7 @@
   font-size: 30px;
   float: right;
   border: 2px;
-  padding: 36px;
+  padding: 10px;
   margin: 20px;
 }
 .header{
@@ -12,6 +12,7 @@
   font-family: inherit;
   font-size: 25px;
   color: rgb(30, 102, 78);
+ 
 }
 img{
   float: left;

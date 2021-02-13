@@ -2,14 +2,14 @@
 #### {Web portfolio showcasing my work}, {2021}
 #### By **{Gacheri}**
 ## Description
-{Web portfolio about me , a list of my projects , background and my current interests }
+Web portfolio about me , a list of my projects , background and my current interests.
 ## Live Demo
 Here is a working live Demo  https://gacheri7.github.io/porftolio-landing-page-/
 ## Known Bugs
-{There are no known bugs}
+There are no known bugs
 ## Technologies Used
-{HTML
-CSS}
+*HTML
+*CSS
 ## Development
 To fix a bug or enhance existing module follow the following steps :
 Fork the repo
@@ -20,10 +20,9 @@ Fork the repo
 5.Push to the branch (git push origin improve-feature)
 6.Create a Pull Request
 ## Support and contact details
-{ if you run into any issues or have questions, ideas , concerns or want to make a contribution to the code ,be encourage  to contact me at martharollier00@gmail.}
+{ if you run  any issues or have questions, ideas , concerns or want to make a contribution to the code ,be encourage  to contact me at martharollier00@gmail.com
 ### License
-MIT (c) [2021] **Gacheri**
-
+{MIT} (c) {2021} **Gacheri**
 
 
 

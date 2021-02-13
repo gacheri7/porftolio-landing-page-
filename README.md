@@ -1,8 +1,14 @@
 # {Portfolio Landing Page}
 #### {Web portfolio showcasing my work}, {2021}
-#### By **{List of contributors}**
-## Description
-{Web portfolio about me , a list of my projects , background and my current interests }
+#### By **{Martha Gacheri}**
+## Build a Portfolio
+I have built a responsive website that will display images , links and an about me page.
+## Files included
+Index.html
+styles.css in css folder
+img folder
+about.html
+projects,html
 ## Project Setup
 Create a forked copy of this project
 Clone your own version of the repository 
